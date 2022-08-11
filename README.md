@@ -3,7 +3,7 @@
 ## サポート情報
 こんにちは、こちらはKIMIAKI　TAKUBOが提供するアプリのサポートページとプライバシーポリシーとなります。
 お問い合わせは下記からお問い合わせください。
-https://forms.gle/WPaDZk1JeDRGWCXy8
+https://forms.gle/wgkpR9D7HYd9sebi9
 
 ## ・プライバシーポリシー・
 ## [利用者情報の取得]
@@ -17,4 +17,4 @@ https://forms.gle/WPaDZk1JeDRGWCXy8
 
 ## [お問合せフォーム]
 何かご不明な点がありましたら下記からお問い合わせください。
-https://forms.gle/WPaDZk1JeDRGWCXy8
+https://forms.gle/wgkpR9D7HYd9sebi9
